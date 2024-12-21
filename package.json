@@ -1,0 +1,11 @@
+{
+  "name": "fish-game",
+  "version": "1.0.0",
+  "description": "A fish eating game",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+} 
